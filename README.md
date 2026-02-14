@@ -106,9 +106,7 @@ The model successfully learns to predict pixel coordinates with low regression e
 - TensorFlow
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- tqdm
+- seaborn
 
-### Install Dependencies
 
-```bash
-pip install tensorflow numpy matplotlib jupyter
